@@ -28,10 +28,11 @@ function johnLennonFacts(facts){
   return result
 }
 
-var num=7
 
-function iLoveTheBeates(num){
-  let result=[]
+
+
+function iLoveTheBeatles(num){
+  var result=[]
   do {
     result.push('I love the Beatles!')
     num++
