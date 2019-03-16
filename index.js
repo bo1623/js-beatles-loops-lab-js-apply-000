@@ -4,8 +4,10 @@ function theBeatlesPlay(musician, instrument){
   var i
   for (i=0;i<musician.length;i++){
     result.push(musician[i]+' plays '+instrument[i])
-    
   }
+}
+
+function johnLennonFacts(facts){
   
 }
 
