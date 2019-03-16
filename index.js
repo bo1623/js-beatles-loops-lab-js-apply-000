@@ -28,7 +28,7 @@ function johnLennonFacts(facts){
   return result
 }
 
-
+var num=7
 
 function iLoveTheBeates(num){
   let result=[]
