@@ -28,6 +28,8 @@ function johnLennonFacts(facts){
   return result
 }
 
+
+
 function iLoveTheBeates(num){
   let result=[]
   do {
