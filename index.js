@@ -32,12 +32,10 @@ function iLoveTheBeates(num){
   var result=[]
   do {
     result.push('I love the Beatles!')
-    
+    i++
   }
+  while (i<15)
+  return result
 }
 
-do {
-  text += "The number is " + i;
-  i++;
-}
-while (i < 10);
+
